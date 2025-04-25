@@ -1,4 +1,10 @@
-## Hi there 👋
+<h1>Bienvenido a mi perfil de GitHub</h1>
+<h2>Acerca de mi</h2>
+<p>
+  Graduado en Ingeniería en informática con conocimientos en desarrollo web.
+</p>
+
+
 
 <!--
 **Hernan-Erices/Hernan-Erices** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Bienvenido a mi perfil de GitHub</h1>
