@@ -7,11 +7,15 @@
 ## 🧑‍💻 Mi ruta de aprendizaje
 Esta es la ruta que estoy siguiendo para especializarme como desarrollor Web Full stack donde di inicio el 16 de abril del 2025.
 
+### Frontend
+
 1 - HTML
 
 2 - CSS
 
 3 - JavaScript
+
+### Backend
 
 4 - Python
 
@@ -21,4 +25,8 @@ Esta es la ruta que estoy siguiendo para especializarme como desarrollor Web Ful
 
 ## Acerca de mi
 
-Egresado de la carrera ingenieria en informatica de la universidad Santo Tomas,
+Egresado de la carrera ingenieria en informatica de la universidad Santo Tomas
+
+## 🛠️ Proyectos destacados
+
+## Experiencia laboral
