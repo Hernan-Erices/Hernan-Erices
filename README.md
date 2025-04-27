@@ -15,6 +15,10 @@ Esta es la ruta que estoy siguiendo para especializarme como desarrollor Web Ful
 
 3 - JavaScript
 
+4 - React
+
+5 - Tailwind CSS
+
 ### Backend
 
 4 - Python
@@ -22,6 +26,10 @@ Esta es la ruta que estoy siguiendo para especializarme como desarrollor Web Ful
 5 - Django
 
 6 - MySQL
+
+7 - PostgreSQL
+
+8 - Django REST framework
 
 ## Acerca de mi
 
