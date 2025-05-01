@@ -9,13 +9,11 @@
   </a>
 </p>
 
----
 
 ## 🧠 Acerca de mí
 
 Soy un desarrollador web egresado de la carrera Ingenieria en Informatica, enfocado en crear soluciones funcionales. Trabajo tanto en el frontend como en el backend, con especial interés en construir aplicaciones escalables y limpias.
 
----
 
 ## 👨‍💻 Tecnologías y habilidades
 
@@ -47,6 +45,5 @@ Soy un desarrollador web egresado de la carrera Ingenieria en Informatica, enfoc
   <img src="https://img.shields.io/badge/Warp-000000?style=for-the-badge&logo=warp&logoColor=white"/>
 </p>
 
----
 
 ✨ ¡Gracias por visitar mi perfil!
