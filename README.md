@@ -1,11 +1,12 @@
 <h1 align="center">¡Hola! 👋 Soy Jano, Bienvenido a mi perfil de GitHub</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/alejandro-arevalo-erices" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<palign="center">
+  <ahref="https://www.linkedin.com/in/alejandro-arevalo-erices">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-000?style=for-the-badge&logo=About.me&logoColor=white" />
+  
+  <ahref="#">
+    <img src="https://img.shields.io/badge/Portafolio-000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 </p>
 
